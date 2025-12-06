@@ -1,0 +1,5 @@
+memos_prod.db
+*.tar.gz
+*.db-shm
+*.db-wal
+.thumbnail_cache/
